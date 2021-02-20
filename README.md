@@ -9,6 +9,3 @@ Welcome! In this repo, you will find materials to help you better understand our
 
 ## Survey with the pre-and post-questionnaire:
 https://github.com/cns-iu/rui-tissue-registration/blob/main/RUI_user_study_questionnaires.pdf 
-
-## Power Analysis and Overview of Data Collected
-https://github.com/cns-iu/rui-tissue-registration/blob/main/2021-02-19-RUI-Supporting_Information 
