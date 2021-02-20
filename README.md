@@ -1,6 +1,6 @@
 # Supporting Information
 
-Welcome! In this repo, you will find materials to help you better understand our paper. 
+Welcome! In this repo, you will find video material to illustrate the three setups in our user study. Additionally, we uploaded the survey used to gather demographic and post-experiment data from our participants. 
 
 ## Video demos of the three setups:
 1. 2D Desktop: https://iu.mediaspace.kaltura.com/media/t/1_kz5c7l9m 
